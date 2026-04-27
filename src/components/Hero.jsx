@@ -117,10 +117,7 @@ const Hero = () => {
           <div className="stat"><span className="stat-num">5+</span><span className="stat-label">Tech Stacks</span></div>
         </div>
       </div>
-      <div className="hero-scroll-indicator">
-        <span>Scroll</span>
-        <div className="scroll-line"></div>
-      </div>
+
     </section>
   );
 };
