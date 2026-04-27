@@ -45,11 +45,11 @@ const About = () => {
               <span className="tag">AI-Powered Workflows</span>
             </div>
           </div>
-          <div className="about-right reveal">
-            <div className="about-card">
-              <div className="about-avatar">
-                <div className="avatar-placeholder">DA</div>
+            <div className="about-avatar">
+              <div className="avatar-placeholder">
+                <img src="/src/assets/profile.jpg" alt="Deepak Arora" className="profile-img" />
               </div>
+            </div>
               <div className="about-info-list">
                 <div className="info-item">
                   <span className="info-label">Location</span>
