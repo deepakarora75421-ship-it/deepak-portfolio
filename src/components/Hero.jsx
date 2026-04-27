@@ -99,7 +99,7 @@ const Hero = () => {
           Open to new opportunities
         </div>
         <h1 className="hero-title reveal">
-          Deepak<br />
+          Deepak Arora<br />
           <span className="gradient-text">{displayText}</span>
         </h1>
         <p className="hero-sub reveal">
